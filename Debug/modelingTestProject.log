@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (modelingTestProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\trevor\documents\github\codebot\main.cpp(6): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Transformer.cpp
+c:\users\trevor\documents\github\codebot\transformer.cpp(2): fatal error C1083: Cannot open include file: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  StartNode.cpp
+c:\users\trevor\documents\github\codebot\hudnode.h(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  SceneObject.cpp
+c:\users\trevor\documents\github\codebot\sceneobject.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Scene.cpp
+c:\users\trevor\documents\github\codebot\sceneobject.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  RenderedObject.cpp
+c:\users\trevor\documents\github\codebot\sceneobject.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  ObjectMesh.cpp
+  ObjLoader.cpp
+c:\users\trevor\documents\github\codebot\objloader.cpp(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  MoveForwardNode.cpp
+c:\users\trevor\documents\github\codebot\hudnode.h(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Level.cpp
+c:\users\trevor\documents\github\codebot\sceneobject.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  HudNode.cpp
+c:\users\trevor\documents\github\codebot\hudnode.h(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Hud.cpp
+c:\users\trevor\documents\github\codebot\hudnode.h(3): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Grouping.cpp
+c:\users\trevor\documents\github\codebot\sceneobject.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Game.cpp
+c:\users\trevor\documents\github\codebot\sceneobject.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Character.cpp
+c:\users\trevor\documents\github\codebot\sceneobject.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Generating Code...

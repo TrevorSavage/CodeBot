@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (modelingTestProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Hud.cpp
+c:\users\trevor\documents\visual studio 2015\projects\opengl_modelingproject\modelingtestproject\hud.cpp(72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\trevor\documents\visual studio 2015\projects\opengl_modelingproject\modelingtestproject\hud.cpp(73): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\trevor\documents\visual studio 2015\projects\opengl_modelingproject\modelingtestproject\hud.cpp(75): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\trevor\documents\visual studio 2015\projects\opengl_modelingproject\modelingtestproject\hud.cpp(112): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\trevor\documents\visual studio 2015\projects\opengl_modelingproject\modelingtestproject\hud.cpp(115): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\trevor\documents\visual studio 2015\projects\opengl_modelingproject\modelingtestproject\hud.cpp(214): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\trevor\documents\visual studio 2015\projects\opengl_modelingproject\modelingtestproject\hud.cpp(215): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\trevor\documents\visual studio 2015\projects\opengl_modelingproject\modelingtestproject\hud.cpp(248): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  modelingTestProject.vcxproj -> C:\Users\Trevor\documents\visual studio 2015\Projects\openGl_ModelingProject\x64\Debug\finalGameProject.exe
+  modelingTestProject.vcxproj -> C:\Users\Trevor\documents\visual studio 2015\Projects\openGl_ModelingProject\x64\Debug\finalGameProject.pdb (Partial PDB)
